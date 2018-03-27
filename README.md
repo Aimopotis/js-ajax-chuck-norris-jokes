@@ -1,4 +1,4 @@
-# Chuck Norris Jokes App using JS, AJAX and skelletoncss
+# Chuck Norris Jokes App using JS, AJAX and Skeleton CSS
 Set a number of jokes you would like to see about Chuck Norris. Do an **Ajax** call to **http://www.icndb.com/** and get the jokes and then display them to your UI. Enjoy and keep on sharing!!! 
 
 ## Online 
